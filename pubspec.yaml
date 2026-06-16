@@ -1,0 +1,17 @@
+name: xlift_models
+description: TFLite models for Xlift fitness app (barbell detection, etc.)
+version: 0.0.1
+homepage: https://github.com/gall1314/xlift_models
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/barbell.tflite
