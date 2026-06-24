@@ -1,6 +1,6 @@
 name: xlift_models
 description: TFLite models for Xlift fitness app (barbell detection, etc.)
-version: 0.0.2+2  # או הסיפרה הבאה
+version: 0.0.3+3  # או הסיפרה הבאה
 homepage: https://github.com/gall1314/xlift_models
 publish_to: 'none'
 
